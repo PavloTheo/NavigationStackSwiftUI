@@ -25,4 +25,4 @@ This project showcases the functionality of Swift's new Navigation Stack paradig
 
 Demo GIF:
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/PavloTheo/NavigationStackSwiftUI/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20-%202023-11-03%20at%2013.57.58.gif)https://github.com/PavloTheo/NavigationStackSwiftUI/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20-%202023-11-03%20at%2013.57.58.gif)
+![](Simulator Screen Recording - iPhone 14 Pro - 2023-11-03 at 13.57.58.gif)
