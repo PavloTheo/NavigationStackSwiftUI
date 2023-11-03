@@ -21,3 +21,8 @@ This project showcases the functionality of Swift's new Navigation Stack paradig
 1. Clone the repository.
 2. Open `NavigationStackSwiftUI.xcodeproj` in Xcode.
 3. Run the project in a simulator or a real device.
+
+
+Screen capture:
+
+![Demo GIF](Simulator Screen Recording - iPhone 14 Pro - 2023-11-03 at 13.57.58.gif)
