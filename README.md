@@ -23,5 +23,4 @@ This project showcases the functionality of Swift's new Navigation Stack paradig
 3. Run the project in a simulator or a real device.
 
 
-Demo GIF:
-
+![Demo GIF](navigation_demo.gif)
