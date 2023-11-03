@@ -25,4 +25,3 @@ This project showcases the functionality of Swift's new Navigation Stack paradig
 
 Demo GIF:
 
-![](Simulator Screen Recording - iPhone 14 Pro - 2023-11-03 at 13.57.58.gif)
